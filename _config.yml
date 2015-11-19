@@ -1,0 +1,23 @@
+name: SimplicityTech
+favicon: null
+layout_spectrum: 0.9286164008080959
+typography_spectrum: 0.43189076823182404
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.3513440075330436
+  lightness: 0.9531683207023889
+  saturation: 0.14964916137978435
+  rhythmicContrast: 0.7154059980530292
+purpose: []
